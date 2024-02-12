@@ -1,16 +1,11 @@
 # image_video_topics
 
-A new Flutter project.
+🚀image & video 
 
-## Getting Started
+simple app consists of 
+▶️ button for  pick image from gallery using image picker and text over image 
+to give you the ability to write easily on image and you can move this text over image easily 
+▶️ button for edit image using image cropper package to crop and rotate image easily 
+and i try to rotate image without package successfully 🔅
+▶️ using video player package to show video inside app and you can play and pause it by one press 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
