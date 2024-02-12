@@ -3,6 +3,7 @@
 🚀image & video 
 
 simple app consists of 
+
 ▶️ button for  pick image from gallery using image picker and text over image 
 to give you the ability to write easily on image and you can move this text over image easily 
 
